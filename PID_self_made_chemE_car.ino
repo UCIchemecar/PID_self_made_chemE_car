@@ -80,5 +80,5 @@ void loop() {
   prevdif1=dif1;
   prevdif2=dif2;
   count+=1;
-  delay(2000);
+  delay(20);
 }
