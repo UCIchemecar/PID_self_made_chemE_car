@@ -80,9 +80,5 @@ void loop() {
   prevdif1=dif1;
   prevdif2=dif2;
   count+=1;
-<<<<<<< HEAD
-  delay(20);
-=======
-  delay(2);
->>>>>>> Khoi
+  delay(200);
 }
